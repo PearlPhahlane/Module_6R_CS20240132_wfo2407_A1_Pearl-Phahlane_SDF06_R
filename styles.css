@@ -290,3 +290,11 @@ img {
         display: block;
     }
 }
+
+/* Loader Spinning Animation */
+
+@keyframes loader {
+    to {
+        transform: rotate(360deg);
+    }
+}
