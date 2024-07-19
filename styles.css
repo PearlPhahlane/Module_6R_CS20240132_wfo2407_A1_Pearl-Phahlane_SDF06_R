@@ -72,7 +72,7 @@ img {
 }
 
 .profile-image img {
-    border: 8px solid #4d6b5f;
+    border: 10px solid #4d6b5f;
     border-radius: 50%;
     overflow: hidden;
 }
